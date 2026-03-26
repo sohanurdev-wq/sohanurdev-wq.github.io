@@ -49,7 +49,3 @@ Let's architect your next big idea.
 <p align="center">
   <img src="https://github.com/sohanurdev-wq/sohanurdev-wq/blob/main/sohanur_dev_footer.png?raw=true" alt="Sohanur Dev Footer Banner" width="1000" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00000000&height=30&section=footer&text=Code%20is%20Art%20that%20Builds%20Business&fontSize=18&fontColor=808080" alt="Footer Text Render" />
-</p>
