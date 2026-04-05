@@ -41,7 +41,7 @@ I specialize in transforming complex business logic into high-performance digita
 Let's architect your next big idea.
 
 [<img src="https://img.shields.io/badge/WhatsApp-Direct%20Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/8801410590555) 
-[<img src="https://img.shields.io/badge/Facebook-Connect%20Professionally-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/share/1EUzMMQAY3/)
+[<img src="https://img.shields.io/badge/Facebook-Connect%20Professionally-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/share/1Dv2pvL7uB/)
 [<img src="https://img.shields.io/badge/Website-Live%20Portfolio-FF4B4B?style=for-the-badge" />](https://sohanurdev-wq.github.io)
 
 ---
